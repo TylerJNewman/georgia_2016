@@ -1,6 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import {Chart} from "src/components";
+import {Chart} from "../src/components";
 
 export default function Home() {
   return (
